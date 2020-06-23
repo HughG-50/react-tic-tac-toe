@@ -15,6 +15,7 @@ class Square extends React.Component {
     }
   }
   
+  //Props are like parameters/arguments that you can pass in from parent component
   class Board extends React.Component {
     constructor(props) {
         super(props)
